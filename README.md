@@ -1,4 +1,4 @@
-### Hi there 👋 I am Eduar Bastidas 🤵
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Eduar Bastidas 🤵
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/mreduar/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&labelColor=orange)](https://www.instagram.com/mreduar/)
