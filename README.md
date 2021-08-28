@@ -25,7 +25,7 @@
 
 ## Other things of interest:
 <p>
-  <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=mreduar&show_icons=true&hide_border=true" />
+  <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=mreduar&show_icons=true&hide_border=true&count_private=true" />
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
