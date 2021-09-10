@@ -19,7 +19,7 @@
 - 💬 Ask me about :
      * **How is my life going? 😉**
      * **PHP || Laravel || VueJS || TailwindCSS || Livewire || Git**
-     * **Web Development || API Developmentt || Desktop Application with Electron**
+     * **Web Development || API Development || Desktop Application with Electron**
      * **System Engineer ⌨️ || Spotify 🎶 || Movies 🎬**
 
 
