@@ -13,7 +13,7 @@
 
 - 🏢 I'm currently working at **ManyRequests**
 - 🤝 I’m looking to collaborate on **any open source projects**
-- ⚙️ I use daily: `.php`, `.js`, `.vue`, `.html`, `.css`, `.tpl`
+- ⚙️ I use daily: `.php`, `.js`, `.vue`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Laravel Community**
 - ⚡️ Fun fact: I'm a huge fan of World of Warcraft 🎮
 - 💬 Ask me about :
